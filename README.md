@@ -9,8 +9,10 @@
 
 
 About me:
-aboba
 
 
-Language and tools:
+### Language and tools:
+
+![Python](https://img.shields.io/badge/Python--pink?style=flat-square&logo=Python&labelColor=black&color=pink)
+![Django](https://img.shields.io/badge/Django--red?style=flat-square&logo=Django&labelColor=black&color=red)
 

@@ -19,3 +19,7 @@
 ![Blender](https://img.shields.io/badge/Blender--Blue?style=flat-square&logo=Blender&labelColor=black&color=blue)
 ![HTML](https://img.shields.io/badge/HTML--Blue?style=flat-square&logo=HTML5&labelColor=black&color=white)
 ![CSS](https://img.shields.io/badge/CSS--Blue?style=flat-square&logo=CSS3&labelColor=black&color=purple)
+
+
+## Social:
+![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)

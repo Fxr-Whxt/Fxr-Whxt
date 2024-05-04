@@ -22,4 +22,6 @@
 
 
 ## Social:
-![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)
+[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)
+
+## Folow me ^^

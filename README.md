@@ -4,12 +4,14 @@
     <h3>Junior Backend developer from Ukraine</h3>
 </div>
 
+<br>
 
 ## About me:
 
 #### I`m junior back end developer, Now i learning Django and MySql, I speak English, Deutsch, Ukrainian and Russian. Thank you for visit my profile! 
 
 
+<br>
 
 ## Language and tools:
 
@@ -20,8 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML--Blue?style=flat-square&logo=HTML5&labelColor=black&color=white)
 ![CSS](https://img.shields.io/badge/CSS--Blue?style=flat-square&logo=CSS3&labelColor=black&color=purple)
 
+<br>
 
-## Social:
+## Folow me:
 [![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)
-
-## Folow me ^^

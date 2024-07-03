@@ -24,6 +24,7 @@
 
 ## Language and tools:
 
+
 ![Python](https://img.shields.io/badge/Python--pink?style=flat-square&logo=Python&labelColor=black&color=pink)
 ![Django](https://img.shields.io/badge/Django--red?style=flat-square&logo=Django&labelColor=black&color=red)
 ![SQL](https://img.shields.io/badge/SQL--green?style=flat-square&logo=SQL&labelColor=black&color=Green)
@@ -34,7 +35,7 @@
 <br>
 
 ## Folow me:
-[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)
+[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/large)](https://www.codewars.com/users/FxrWhxt)
 
 
 

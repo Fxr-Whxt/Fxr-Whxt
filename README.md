@@ -1,4 +1,5 @@
 <div id="Header" align="center">
+    <a href="https://github.com/Fxr-Whxt"> <img src="assets/ezgif-6-ea7513ec72.gif" style="max-width: 100%; max-height: 1050px"></img></a>
     <h1>Hi there, i`m Alex</h1>
     <h3>Junior Backend developer from Ukraine</h3>
 
@@ -12,7 +13,7 @@
 
 </b>
 
-<a href="https://github.com/Fxr-Whxt"> <img src="assets/ezgif-6-ea7513ec72.gif" style="max-width: 100%; max-height: 1050px"></img></a>
+
 ### I love to learn smth new! 
 
 <br>

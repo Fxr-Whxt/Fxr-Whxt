@@ -1,8 +1,6 @@
-
-<a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif" style="width: 100%"></img></a>
-
-<h1>Hi there, i`m Alex</h1>
-<h3>Junior Backend developer from Ukraine</h3>
+<div id="Header" align="center">
+    <h1>Hi there, i`m Alex</h1>
+    <h3>Junior Backend developer from Ukraine</h3>
 
 
 <br>
@@ -14,6 +12,7 @@
 
 </b>
 
+<a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif"></img></a>
 ### I love to learn smth new! 
 
 <br>
@@ -31,3 +30,7 @@
 
 ## Folow me:
 [![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)
+
+
+
+</div>

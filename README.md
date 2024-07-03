@@ -12,10 +12,14 @@
 
 </b>
 
-<a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif" style="max-width: 100%; max-height: 1050px"></img></a>
+<a href="https://github.com/Fxr-Whxt"> <img src="assets/ezgif-6-ea7513ec72.gif" style="max-width: 100%; max-height: 1050px"></img></a>
 ### I love to learn smth new! 
 
 <br>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxr-Whxt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language and tools:
 

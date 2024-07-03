@@ -12,7 +12,7 @@
 
 </b>
 
-<a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif"></img></a>
+<a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif" style="max-width: 100%; max-height: 1050px"></img></a>
 ### I love to learn smth new! 
 
 <br>

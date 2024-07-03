@@ -3,7 +3,7 @@
     <h1>Hi there, i`m Alex</h1>
     <h3>Junior Backend developer from Ukraine</h3>
 
-
+</div>
 <br>
 
 ## About me:
@@ -38,4 +38,3 @@
 
 
 
-</div>

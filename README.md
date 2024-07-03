@@ -1,5 +1,5 @@
 <div id="Header" align="center">
-    <a href="https://github.com/Fxr-Whxt"> <img src="/assets/animation.gif"></img></a>
+    <a href="https://github.com/Fxr-Whxt"> <img src="assets/original.gif"></img></a>
     <h1>Hi there, i`m Alex</h1>
     <h3>Junior Backend developer from Ukraine</h3>
 </div>
@@ -8,8 +8,12 @@
 
 ## About me:
 
-#### I`m junior back end developer, Now i learning Django and MySql, I speak English, Deutsch, Ukrainian and Russian. Thank you for visit my profile! 
+<b> I`m junior back end developer, Now i learning JavaScript and Sql, I speak English, Deutsch, Ukrainian and Russian. I want to become a better person than me now. Learning every day.
 
+
+</b>
+
+### I love to learn smth new! 
 
 <br>
 

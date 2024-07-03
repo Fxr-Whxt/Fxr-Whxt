@@ -1,8 +1,8 @@
-<div id="Header" align="center">
-    <a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif" style="width: 100%"></img></a>
-    <h1>Hi there, i`m Alex</h1>
-    <h3>Junior Backend developer from Ukraine</h3>
-</div>
+
+<a href="https://github.com/Fxr-Whxt"> <img src="assets/original(1).gif" style="max-width: 100%"></img></a>
+<h1>Hi there, i`m Alex</h1>
+<h3>Junior Backend developer from Ukraine</h3>
+
 
 <br>
 

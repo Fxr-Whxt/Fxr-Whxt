@@ -1,14 +1,14 @@
 <div id="Header" align="center">
     <a href="https://github.com/Fxr-Whxt"> <img src="assets/ezgif-6-ea7513ec72.gif" style="max-width: 100%; max-height: 1050px"></img></a>
     <h1>Hi there, i`m Alex</h1>
-    <h3>Junior Backend developer from Ukraine</h3>
+    <h3>Python / Back-end developer from Ukraine</h3>
 
 </div>
 <br>
 
 ## About me:
 
- ### I`m back end developer, Now i learning JavaScript and Sql, I speak English, Deutsch, Ukrainian and Russian. I want to become a better person than me now. Learning every day.
+ ### I`m back-end developer, Now i learning JavaScript and Sql, I speak English, Deutsch, Ukrainian and Russian. I want to become a better person than me now. Learning every day.
 
 
 </b>

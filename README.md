@@ -8,7 +8,7 @@
 
 ## About me:
 
- ### I`m junior back end developer, Now i learning JavaScript and Sql, I speak English, Deutsch, Ukrainian and Russian. I want to become a better person than me now. Learning every day.
+ ### I`m back end developer, Now i learning JavaScript and Sql, I speak English, Deutsch, Ukrainian and Russian. I want to become a better person than me now. Learning every day.
 
 
 </b>

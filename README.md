@@ -8,7 +8,7 @@
 
 ## About me:
 
- ### I`m Python / Back-end developer, Now i learning JavaScript and Sql, I speak English, Deutsch, Ukrainian and Russian. I want to become a better person than me now. Learning every day.
+### I'm a Python / Back-end Developer, currently learning JavaScript and SQL. I speak English, Deutsch, Ukrainian, and Russian. I strive to become a better person and developer every day by learning something new.
 
 
 </b>

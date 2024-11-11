@@ -20,23 +20,36 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxr-Whxt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Language and tools:
 
 
-![Python](https://img.shields.io/badge/Python--pink?style=flat-square&logo=Python&labelColor=black&color=pink)
-![Django](https://img.shields.io/badge/Django--red?style=flat-square&logo=Django&labelColor=black&color=red)
-![SQL](https://img.shields.io/badge/SQL--green?style=flat-square&logo=SQL&labelColor=black&color=Green)
-![Blender](https://img.shields.io/badge/Blender--Blue?style=flat-square&logo=Blender&labelColor=black&color=blue)
-![HTML](https://img.shields.io/badge/HTML--Blue?style=flat-square&logo=HTML5&labelColor=black&color=white)
-![CSS](https://img.shields.io/badge/CSS--Blue?style=flat-square&logo=CSS3&labelColor=black&color=purple)
+
+
+
+<div id="languages" align="center">
+
+![Python](https://img.shields.io/badge/Python--pink?style=flat-square&logo=Python&labelColor=black&color=pink) 
+![Django](https://img.shields.io/badge/Django--red?style=flat-square&logo=Django&labelColor=black&color=red) 
+![SQL](https://img.shields.io/badge/SQL--green?style=flat-square&logo=SQL&labelColor=black&color=Green) 
+![Blender](https://img.shields.io/badge/Blender--Blue?style=flat-square&logo=Blender&labelColor=black&color=blue) 
+![HTML](https://img.shields.io/badge/HTML--Blue?style=flat-square&logo=HTML5&labelColor=black&color=white) 
+![CSS](https://img.shields.io/badge/CSS--Blue?style=flat-square&logo=CSS3&labelColor=black&color=purple) 
+![JavaScript](https://img.shields.io/badge/JavaScript--Blue?style=flat-square&logo=JavaScript&labelColor=black&color=orange)
+</div>
 
 <br>
 
+<div id="badge" align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxr-Whxt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ## Folow me:
 
-[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/large)](https://www.codewars.com/users/FxrWhxt)
+
+[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt) \
+![Discord](https://dcbadge.limes.pink/api/shield/982231485224464414) 
 
 
 

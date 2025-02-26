@@ -4,11 +4,16 @@
     <h3>Python / Back-end developer from Ukraine</h3>
 
 </div>
+
 ## 🚀 About me:
+
+<h2>
 
 I'm a **Python / Back-end Developer**, currently learning **JavaScript and SQL**. 
 I speak **English, Deutsch, Ukrainian, and Russian**. 
 I strive to become a better person and developer every day by learning something new.
+
+</h2>
 
 ### 🛠️ Tech Stack:
 
@@ -27,16 +32,12 @@ I strive to become a better person and developer every day by learning something
 
 ## 📌 Featured Projects:
 
-🚀 **[](https://github.com/Fxr-Whxt/ProjectName)**  
-_Automation script that does X using Python._
+🚀 **[Minigames](https://github.com/Fxr-Whxt/Minigames)**  
+_Games maded with some libraries of Python._
 
-🤖 **[Telegram Bot](https://github.com/Fxr-Whxt/TelegramBot)**  
-_A bot for handling Y using API._
+🤖 **[Mp4 to Webm converter](https://github.com/Fxr-Whxt/Mp4-to-a-webm-converter)**  
+_A script that converts a mp4, webm, gif using Python._
 
-📊 **[Web Scraper](https://github.com/Fxr-Whxt/WebScraper)**  
-_Scrapes data from Z websites and saves it in CSV._
-
-(*Replace placeholders with real projects!*)
 
 ---
 
@@ -50,5 +51,5 @@ _Scrapes data from Z websites and saves it in CSV._
 
 [![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)  
 ![Discord](https://dcbadge.limes.pink/api/shield/982231485224464414)  
-✉️ Email: [](fxrwhxt@gmail.com)  
+✉️ Email: [fxrwhxt@gmail.com](fxrwhxt@gmail.com)  
 🐙 GitHub: [Fxr-Whxt](https://github.com/Fxr-Whxt)

@@ -7,13 +7,13 @@
 
 ## 🚀 About me:
 
-<h2>
+<h3>
 
 I'm a **Python / Back-end Developer**, currently learning **JavaScript and SQL**. 
 I speak **English, Deutsch, Ukrainian, and Russian**. 
 I strive to become a better person and developer every day by learning something new.
 
-</h2>
+</h3>
 
 ### 🛠️ Tech Stack:
 

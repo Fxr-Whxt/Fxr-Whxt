@@ -4,27 +4,13 @@
     <h3>Python / Back-end developer from Ukraine</h3>
 
 </div>
-<br>
+## 🚀 About me:
 
-## About me:
+I'm a **Python / Back-end Developer**, currently learning **JavaScript and SQL**. 
+I speak **English, Deutsch, Ukrainian, and Russian**. 
+I strive to become a better person and developer every day by learning something new.
 
-### I'm a Python / Back-end Developer, currently learning JavaScript and SQL. I speak English, Deutsch, Ukrainian, and Russian. I strive to become a better person and developer every day by learning something new.
-
-
-</b>
-
-
-### I love to learn smth new! 
-
-<br>
-
-
-
-## Language and tools:
-
-
-
-
+### 🛠️ Tech Stack:
 
 <div id="languages" align="center">
 
@@ -37,7 +23,22 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript--Blue?style=flat-square&logo=JavaScript&labelColor=black&color=orange)
 </div>
 
-<br>
+---
+
+## 📌 Featured Projects:
+
+🚀 **[](https://github.com/Fxr-Whxt/ProjectName)**  
+_Automation script that does X using Python._
+
+🤖 **[Telegram Bot](https://github.com/Fxr-Whxt/TelegramBot)**  
+_A bot for handling Y using API._
+
+📊 **[Web Scraper](https://github.com/Fxr-Whxt/WebScraper)**  
+_Scrapes data from Z websites and saves it in CSV._
+
+(*Replace placeholders with real projects!*)
+
+---
 
 <div id="badge" align="center">
 
@@ -45,11 +46,9 @@
 
 </div>
 
-## Folow me:
+## 📫 Connect with me:
 
-
-[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt) \
-![Discord](https://dcbadge.limes.pink/api/shield/982231485224464414) 
-
-
-
+[![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)  
+![Discord](https://dcbadge.limes.pink/api/shield/982231485224464414)  
+✉️ Email: [](fxrwhxt@gmail.com)  
+🐙 GitHub: [Fxr-Whxt](https://github.com/Fxr-Whxt)

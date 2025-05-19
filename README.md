@@ -33,7 +33,7 @@ I strive to become a better person and developer every day by learning something
 ## 📌 Featured Projects:
 
 🚀 **[Minigames](https://github.com/Fxr-Whxt/Minigames)**  
-_Games maded with some libraries of Python._
+_Games maded with some libraries of Python._ 
 
 🤖 **[Mp4 to Webm converter](https://github.com/Fxr-Whxt/Mp4-to-a-webm-converter)**  
 _A script that converts a mp4, webm, gif using Python._

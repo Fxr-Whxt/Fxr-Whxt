@@ -52,4 +52,6 @@ _A script that converts a mp4, webm, gif using Python._
 [![Codewars](https://www.codewars.com/users/FxrWhxt/badges/small)](https://www.codewars.com/users/FxrWhxt)  
 ![Discord](https://dcbadge.limes.pink/api/shield/982231485224464414)  
 ✉️ Email: [fxrwhxt@gmail.com](fxrwhxt@gmail.com)  
-🐙 GitHub: [Fxr-Whxt](https://github.com/Fxr-Whxt)
+🐙 GitHub: [Fxr-Whxt](https://github.com/Fxr-Whxt) \
+✍️ Telegram: [@Misaki_1407](@Misaki_1407)
+

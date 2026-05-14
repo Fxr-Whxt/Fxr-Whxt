@@ -39,11 +39,13 @@ _Games maded with some libraries of Python._
 _A script that converts a mp4, webm, gif using Python._
 
 
+
+
 ---
 
 <div id="badge" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxr-Whxt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
